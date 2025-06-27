@@ -56,7 +56,7 @@ spring.jpa.show-sql=true
 | Method | Endpoint | Description |
 |--------|--------------------|---------------------------|
 | POST | `/addEmployee` | Add a new employee |
-| GET |  View all employees |
+| GET | | View all employees |
 | GET | `/{id}` | View employee by ID |
 | PUT | `/editEmployee/{id}` | Update employee by ID |
 | DELETE | `/deleteEmployee/{id}` | Delete employee by ID |
